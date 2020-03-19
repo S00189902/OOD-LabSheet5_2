@@ -1,0 +1,17 @@
+﻿<Window x:Class="Week5_LabSheet_Ex2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Week5_LabSheet_Ex2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <ListBox x:Name="lbxBands" HorizontalAlignment="Left" Height="200" Margin="27,125,0,0" VerticalAlignment="Top" Width="178" SelectionChanged="LbxBands_SelectionChanged" SelectedValuePath="Bandid"/>
+        <ListBox x:Name="LbxAlbums" HorizontalAlignment="Left" Height="186" Margin="543,125,0,0" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Bands" HorizontalAlignment="Left" Margin="93,84,0,0" VerticalAlignment="Top"/>
+        <Label Content="Albums" HorizontalAlignment="Left" Margin="602,84,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

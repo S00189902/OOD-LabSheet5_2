@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5_Labsheet", "..\..\..\..\source\repos\Week5_Labsheet\Week5_Labsheet\Week5_Labsheet.csproj", "{C3009E3C-ECE7-4B1C-885D-9681E3BC21FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5_LabSheet_Ex2", "Week5_LabSheet_Ex2\Week5_LabSheet_Ex2.csproj", "{4C3EA670-648E-4F3B-A6A4-A22C15C5AF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3009E3C-ECE7-4B1C-885D-9681E3BC21FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3009E3C-ECE7-4B1C-885D-9681E3BC21FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3009E3C-ECE7-4B1C-885D-9681E3BC21FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3009E3C-ECE7-4B1C-885D-9681E3BC21FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3EA670-648E-4F3B-A6A4-A22C15C5AF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3EA670-648E-4F3B-A6A4-A22C15C5AF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3EA670-648E-4F3B-A6A4-A22C15C5AF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3EA670-648E-4F3B-A6A4-A22C15C5AF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4483A0-13DF-4D74-BA5E-093AF2E185E9}
+	EndGlobalSection
+EndGlobal
