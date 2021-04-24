@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/S00189902/OOD-LabSheet5_2/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Here is some random shit for the sake of testing
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 ```markdown
 Syntax highlighted code block
 
